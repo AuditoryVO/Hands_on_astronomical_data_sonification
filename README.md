@@ -1,1 +1,1 @@
-# Hands_on_astronomical_data_sonification
+# Hands on astronomical data sonification
